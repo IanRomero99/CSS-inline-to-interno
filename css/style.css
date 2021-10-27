@@ -1,0 +1,43 @@
+.idea-principal {
+    color: rgba(0, 0, 255, 0.5);
+    font-size: 30px;
+    padding: 10px 20px;
+}
+
+
+/*SELECTOR DE ID*/
+
+#software {
+    color: red;
+}
+
+.textobody {
+    background-color: aliceblue;
+    margin: 0;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#textodesordenado {
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+.rojo {
+    color: red;
+}
+
+.amarillo {
+    color: blue;
+}
+
+b {
+    color: green;
+}
+
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+
+ol p {
+    background-color: yellow;
+}
